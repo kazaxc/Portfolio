@@ -8,9 +8,9 @@
 		<div class="max-w-md">
 			<h1 class="text-5xl font-bold">Kallum Doughty</h1>
 			<p class="py-6">
-				Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore iste, accusamus nobis
-				tempora impedit nam velit possimus saepe ipsam similique est voluptate dicta sint tenetur
-				quod? Neque harum rerum quaerat!
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque quae deleniti, incidunt quos,
+				laboriosam in corrupti, iusto nemo fugit architecto asperiores alias beatae cum commodi vero
+				enim ullam eos excepturi.
 			</p>
 		</div>
 	</div>

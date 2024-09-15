@@ -5,7 +5,5 @@
 </script>
 
 <Hero />
-<div class="divider">Projects</div>
 <Projects />
-<div class="divider">About Me</div>
 <AboutMe />
