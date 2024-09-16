@@ -51,7 +51,7 @@
 		},
 		{
 			title: 'The Jungle',
-			imageUrl: '../static/TheJungle.PNG',
+			imageUrl: 'https://raw.githubusercontent.com/kazaxc/portfolio/main/static/TheJungle.PNG',
 			altText: 'Gameplay screenshot of a level in the game',
 			itemUrl: 'https://github.com/The-Tin-Foil-Hat-Society/tin',
 			description:
