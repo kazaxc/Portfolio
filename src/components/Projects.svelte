@@ -32,8 +32,7 @@
 		},
 		{
 			title: 'LPEngine',
-			imageUrl:
-				'https://user-images.githubusercontent.com/12881812/161390756-f98deb3b-ccb1-495d-bccc-56a2cdeaac99.png',
+			imageUrl: 'https://raw.githubusercontent.com/kazaxc/LPEngine/main/Cropped.png',
 			altText: 'Screenshot of example render',
 			itemUrl: 'https://github.com/The-Tin-Foil-Hat-Society/tin',
 			description:
@@ -52,8 +51,7 @@
 		},
 		{
 			title: 'The Jungle',
-			imageUrl:
-				'https://user-images.githubusercontent.com/12881812/161390756-f98deb3b-ccb1-495d-bccc-56a2cdeaac99.png',
+			imageUrl: '../static/TheJungle.PNG',
 			altText: 'Gameplay screenshot of a level in the game',
 			itemUrl: 'https://github.com/The-Tin-Foil-Hat-Society/tin',
 			description:
