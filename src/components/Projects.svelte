@@ -42,7 +42,7 @@
 		{
 			title: 'Unity PCG Tool',
 			imageUrl:
-				'https://user-images.githubusercontent.com/12881812/161390756-f98deb3b-ccb1-495d-bccc-56a2cdeaac99.png',
+				'https://raw.githubusercontent.com/kazaxc/portfolio/main/static/Capture.PNG',
 			altText: 'Screenshot of tool generating some meshes',
 			itemUrl: 'https://github.com/kazaxc/UnitTest-PR',
 			description:
