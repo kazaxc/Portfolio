@@ -1,4 +1,4 @@
-<div class="hero bg-base-200 min-h-screen items-start">
+<div class="hero bg-base-100 min-h-screen items-start">
 	<div class="hero-content flex-col lg:flex-row mt-32">
 		<img
 			src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
@@ -11,7 +11,6 @@
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
 			</p>
-			<a href="https://github.com/kazaxc" class="btn btn-primary">Github</a>
 		</div>
 	</div>
 </div>

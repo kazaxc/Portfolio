@@ -8,9 +8,8 @@
 		<div class="max-w-md">
 			<h1 class="text-5xl font-bold">Kallum Doughty</h1>
 			<p class="py-6">
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque quae deleniti, incidunt quos,
-				laboriosam in corrupti, iusto nemo fugit architecto asperiores alias beatae cum commodi vero
-				enim ullam eos excepturi.
+				Graduate Games developer and programmer from the UK with a passion for a wide range of
+				fields in the space ranging from graphics to compilers, I just love coding.
 			</p>
 		</div>
 	</div>
