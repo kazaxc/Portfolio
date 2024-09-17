@@ -34,7 +34,7 @@
 			title: 'LPEngine',
 			imageUrl: 'https://raw.githubusercontent.com/kazaxc/LPEngine/main/Cropped.png',
 			altText: 'Screenshot of example render',
-			itemUrl: 'https://github.com/The-Tin-Foil-Hat-Society/tin',
+			itemUrl: 'https://github.com/kazaxc/LPEngine',
 			description:
 				'Testing game engine written in C++ with a Vulkan renderer, the purpose of the engine was to test the performance impact of GameObjects vs ECS and was created as a part of my 4th year project at university.',
 			badgeList: ['C++', 'Vulkan', 'ECS']
@@ -44,7 +44,7 @@
 			imageUrl:
 				'https://user-images.githubusercontent.com/12881812/161390756-f98deb3b-ccb1-495d-bccc-56a2cdeaac99.png',
 			altText: 'Screenshot of tool generating some meshes',
-			itemUrl: 'https://github.com/The-Tin-Foil-Hat-Society/tin',
+			itemUrl: 'https://github.com/kazaxc/UnitTest-PR',
 			description:
 				'Procedural content generation tool for the Unity game engine created to solve a set of unit tests as outlined in a university assignment.',
 			badgeList: ['Unity', 'C#', 'PCG', 'Unit Testing']
@@ -53,7 +53,7 @@
 			title: 'The Jungle',
 			imageUrl: 'https://raw.githubusercontent.com/kazaxc/portfolio/main/static/anotherCrop.png',
 			altText: 'Gameplay screenshot of a level in the game',
-			itemUrl: 'https://github.com/The-Tin-Foil-Hat-Society/tin',
+			itemUrl: '#',
 			description:
 				'2D platformer game created in the Unity game engine created in an exercise to create a fully fledged polished game from start to finish including art, sfx, music, etc.',
 			badgeList: ['Unity', 'C#', '2D', 'Platformer']
